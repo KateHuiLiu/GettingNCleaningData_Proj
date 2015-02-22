@@ -1,0 +1,239 @@
+UCI HAR Dataset
+
+Subject
+		Subject who performed the activity for each window sample. Range from 1 to 30. 
+		
+Activity 
+		Activities performed by subject
+		1.WALKING
+		2.WALKING_UPSTAIRS
+		3.WALKING_DOWNSTAIRS
+		4.SITTING
+		5.STANDING
+		6.LAYING
+		
+TimeBodyAccelerometer.Mean.X
+		Units: g
+		Mean of reading time domain signals from body accelerometer for X direction
+
+TimeBodyAccelerometer.Mean.Y
+		Units: g
+		Mean of reading time domain signals from body accelerometer for Y direction
+		
+TimeBodyAccelerometer.Mean.Z
+		Units: g
+		Mean of reading time domain signals from body accelerometer for Z direction
+		
+TimeBodyAccelerometer.Standard Deviation.X
+		Units: g
+		Standard deviation of reading time domain signals from body accelerometer for X direction
+
+TimeBodyAccelerometer.Standard Deviation.Y
+		Units: g
+		Standard deviation of reading time domain signals from body accelerometer for Y direction
+
+TimeBodyAccelerometer.Standard Deviation.Z
+		Units: g
+		Standard deviation of reading time domain signals from body accelerometer for Z direction
+
+TimeGravityAccelerometer.Mean.X
+		Units: g
+		Mean of reading time domain signals from gravity accelerometer for X direction
+
+TimeGravityAccelerometer.Mean.Y
+		Units: g
+		Mean of reading time domain signals from gravity accelerometer for Y direction
+
+TimeGravityAccelerometer.Mean.Z
+		Units: g
+		Mean of reading time domain signals from gravity accelerometer for Z direction
+
+TimeGravityAccelerometer.Standard Deviation.X
+		Units: g
+		Standard deviation of reading time domain signals from gravity accelerometer for X direction
+
+TimeGravityAccelerometer.Standard Deviation.Y
+		Units: g
+		Standard deviation of reading time domain signals from gravity accelerometer for Y direction
+
+TimeGravityAccelerometer.Standard Deviation.Z
+		Units: g
+		Standard deviation of reading time domain signals from gravity accelerometer for Z direction
+
+TimeBodyAccelerometerJerk.Mean.X
+		Mean of reading time domain signals from body Jerk signals for X direction
+
+TimeBodyAccelerometerJerk.Mean.Y
+		Mean of reading time domain signals from body Jerk signals for Y direction
+
+TimeBodyAccelerometerJerk.Mean.Z
+		Mean of reading time domain signals from body Jerk signals for Z direction
+
+TimeBodyAccelerometerJerk.Standard Deviation.X
+		Standard deviation of reading time domain signals from body Jerk signals for X direction
+
+TimeBodyAccelerometerJerk.Standard Deviation.Y
+		Standard deviation of reading time domain signals from body Jerk signals for Y direction
+
+TimeBodyAccelerometerJerk.Standard Deviation.Z
+		Standard deviation of reading time domain signals from body Jerk signals for Z direction
+	
+TimeBodyGyroscope.Mean.X
+		Mean of reading time domain signals from body gyroscope for X direction
+
+TimeBodyGyroscope.Mean.Y
+		Mean of reading time domain signals from body gyroscope for Y direction
+
+TimeBodyGyroscope.Mean.Z
+		Mean of reading time domain signals from body gyroscope for Z direction
+
+TimeBodyGyroscope.Standard Deviation.X
+		Standard deviation of reading time domain signals from body gyroscope for X direction
+
+TimeBodyGyroscope.Standard Deviation.Y
+		Standard deviation of reading time domain signals from body gyroscope for Y direction
+		
+TimeBodyGyroscope.Standard Deviation.Z
+		Standard deviation of reading time domain signals from body gyroscope for Z direction
+
+TimeBodyGyroscopeJerk.Mean.X
+		Mean of reading time domain signals from body gyroscope Jerk signal for X direction
+
+TimeBodyGyroscopeJerk.Mean.Y
+		Mean of reading time domain signals from body gyroscope Jerk signal for Y direction
+		
+TimeBodyGyroscopeJerk.Mean.Z
+		Mean of reading time domain signals from body gyroscope Jerk signal for Z direction
+
+TimeBodyGyroscopeJerk.Standard Deviation.X
+		Standard deviation of reading time domain signals from body gyroscope Jerk signal for X direction
+
+TimeBodyGyroscopeJerk.Standard Deviation.Y
+		Standard deviation of reading time domain signals from body gyroscope Jerk signal for Y direction
+
+TimeBodyGyroscopeJerk.Standard Deviation.Z
+		Standard deviation of reading time domain signals from body gyroscope Jerk signal for Z direction
+
+TimeBodyAccelerometerMagnitude.Mean
+		Mean of reading time domain signals from body accelerometer magnitude
+		
+TimeBodyAccelerometerMagnitude.Standard Deviation
+		Standard deviation of reading time domain signals from body accelerometer magnitude
+
+TimeGravityAccelerometerMagnitude.Mean
+		Mean of reading time domain signals from gravity accelerometer magnitude
+
+TimeGravityAccelerometerMagnitude.Standard Deviation
+		Standard deviation of reading time domain signals from gravity accelerometer magnitude
+
+TimeBodyAccelerometerJerkMagnitude.Mean
+		Mean of reading time domain signals from body accelerometer Jerk signals magnitude
+
+TimeBodyAccelerometerJerkMagnitude.Standard Deviation
+		Standard deviation of reading time domain signals from body accelerometer Jerk signals magnitude
+
+TimeBodyGyroscopeMagnitude.Mean
+		Mean of reading time domain signals from body gyroscope magnitude
+
+TimeBodyGyroscopeMagnitude.Standard Deviation
+		Standard deviation of reading time domain signals from body gyroscope magnitude
+
+TimeBodyGyroscopeJerkMagnitude.Mean
+		Mean of reading time domain signals from body gyroscope Jerk signals magnitude
+
+TimeBodyGyroscopeJerkMagnitude.Standard Deviation
+		Standard deviation of reading time domain signals from body gyroscope Jerk signals magnitude
+
+FrequencyBodyAccelerometer.Mean.X
+		Units:g
+		Mean of reading frequency domain signals from body accelerometer for X direction
+
+FrequencyBodyAccelerometer.Mean.Y
+		Units:g
+		Mean of reading frequency domain signals from body accelerometer for Y direction
+
+FrequencyBodyAccelerometer.Mean.Z
+		Units:g
+		Mean of reading frequency domain signals from body accelerometer for Z direction
+
+FrequencyBodyAccelerometer.Standard Deviation.X
+		Units:g
+		Standard deviation of reading frequency domain signals from body accelerometer for X direction
+
+FrequencyBodyAccelerometer.Standard Deviation.Y
+		Units:g
+		Standard deviation of reading frequency domain signals from body accelerometer for Y direction
+
+FrequencyBodyAccelerometer.Standard Deviation.Z
+		Units:g
+		Standard deviation of reading frequency domain signals from body accelerometer for Z direction
+
+FrequencyBodyAccelerometerJerk.Mean.X
+		Units:g
+		Mean of reading frequency domain signals from body accelerometer Jerk signals for X direction
+
+FrequencyBodyAccelerometerJerk.Mean.Y
+		Units:g
+		Mean of reading frequency domain signals from body accelerometer Jerk signals for Y direction
+
+FrequencyBodyAccelerometerJerk.Mean.Z
+		Units:g
+		Mean of reading frequency domain signals from body accelerometer Jerk signals for Z direction
+
+FrequencyBodyAccelerometerJerk.Standard Deviation.X
+		Units:g
+		Standard deviation of reading frequency domain signals from body accelerometer Jerk signals for X direction
+
+FrequencyBodyAccelerometerJerk.Standard Deviation.Y
+		Units:g
+		Standard deviation of reading frequency domain signals from body accelerometer Jerk signals for Y direction
+
+FrequencyBodyAccelerometerJerk.Standard Deviation.Z
+		Units:g
+		Standard deviation of reading frequency domain signals from body accelerometer Jerk signals for Z direction
+
+FrequencyBodyGyroscope.Mean.X
+		Mean of reading frequency domain signals from body gyroscope for X direction
+
+FrequencyBodyGyroscope.Mean.Y
+		Mean of reading frequency domain signals from body gyroscope for Y direction
+
+FrequencyBodyGyroscope.Mean.Z
+		Mean of reading frequency domain signals from body gyroscope for Z direction
+
+FrequencyBodyGyroscope.Standard Deviation.X
+		Standard deviation of reading frequency domain signals from body gyroscope for X direction
+
+FrequencyBodyGyroscope.Standard Deviation.Y
+		Standard deviation of reading frequency domain signals from body gyroscope for Y direction
+
+FrequencyBodyGyroscope.Standard Deviation.Z
+		Standard deviation of reading frequency domain signals from body gyroscope for Z direction
+
+FrequencyBodyAccelerometerMagnitude.Mean
+		Mean of reading frequency domain signals from body accelerometer magnitude
+
+FrequencyBodyAccelerometerMagnitude.Standard Deviation
+		Standard deviation of reading frequency domain signals from body accelerometer magnitude
+
+FrequencyBodyAccelerometerJerkMagnitude.Mean
+		Mean of reading frequency domain signals from body accelerometer Jerk signals magnitude
+
+FrequencyBodyAccelerometerJerkMagnitude.Standard Deviation
+		Standard deviation of reading frequency domain signals from body accelerometer Jerk signals magnitude
+
+FrequencyBodyGyroscopeMagnitude.Mean
+		Mean of reading frequency domain signals from body gyroscope magnitude
+
+FrequencyBodyGyroscopeMagnitude.Standard Deviation
+		Standard deviation of reading frequency domain signals from body gyroscope magnitude
+
+FrequencyBodyGyroscopeJerkMagnitude.Mean
+		Mean of reading frequency domain signals from body gyroscope Jerk signals magnitude
+
+FrequencyBodyGyroscopeJerkMagnitude.Standard Deviation
+		Standard deviation of reading frequency domain signals from body gyroscope Jerk signals magnitude
+
+Type
+		Train or Test
+		The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
